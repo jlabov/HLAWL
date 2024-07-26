@@ -1,2 +1,3 @@
 # HLAWL
 Raw data generated for the project "Hungarian Literature as World Literature", describing foreign authors in the Hungarian journal A Hét (1890-1924). 
+The metadata was created by Mihály Benda, Jessie Labov, and Szilvia Maróthy, working from the Repertorium of foreign authors in A Hét compiled by Ferenc Galambos in 1954. The original index was transformed into structured data and georeferenced, for the project "Hungarian Literature as World Literature", led by Zoltán Z. Varga at the Institute of Literary Studies of the Resesarch Center for the Humanities, Hungarian Research Network, funded by the Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (National Research, Development and Innovation Office) grant K 138668.  
